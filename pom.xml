@@ -21,6 +21,8 @@
     </build>
     <modules>
         <module>Spring_xml_config</module>
+        <module>spring_hibernate</module>
+        <module>spring_aop</module>
     </modules>
     <packaging>pom</packaging>
 
